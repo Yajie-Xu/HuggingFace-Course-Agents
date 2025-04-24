@@ -1,0 +1,4 @@
+gradio
+requests
+smolagents # new
+smolagents[openai] # new
